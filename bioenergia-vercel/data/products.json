@@ -1,0 +1,310 @@
+[
+  {
+    "code": "1116",
+    "name": "S.W.S. Alcaline Max 3.17 Gal",
+    "category": "agua",
+    "price": 1181,
+    "badge": "Lanzamiento 2024",
+    "description": "Dispensador de agua alcalina de 3.17 galones. Libre de BPA, reduce cloro libre, retiene partículas. Incluye 2 filtros, 2 discos Ion Balls, 20 esferas Ion Balls y 2 imanes de neodimio de ~3400 Gauss.",
+    "specs": ["BPA Free", "2 filtros", "20 esferas Ion Balls", "2 imanes 3400 Gauss"]
+  },
+  {
+    "code": "133",
+    "name": "Refil Max",
+    "category": "agua",
+    "price": 140,
+    "description": "Repuesto de filtro para el dispensador Alcaline Max, con minerales, carbón activado, esfera alcalina y cuarzo.",
+    "specs": ["Minerales", "Carbón activado", "Cuarzo"]
+  },
+  {
+    "code": "227",
+    "name": "Alcaline Max New Dispenser",
+    "category": "agua",
+    "price": 239,
+    "badge": "Nuevo 2025",
+    "description": "Nuevo dispensador Alcaline Max con disco super mineral H2 y tecnología FIR Power.",
+    "specs": ["FIR Power", "Disco H2 minerales"]
+  },
+  {
+    "code": "106",
+    "name": "Kit de Instalación Hidráulica",
+    "category": "agua",
+    "price": 112,
+    "description": "Kit completo para instalar tu sistema Alcaline Max: manguera, llave, regulador de presión, boya y conexiones.",
+    "specs": ["Manguera", "Regulador de presión", "Conexión tipo L 1/4"]
+  },
+  {
+    "code": "712",
+    "name": "Jarra Alcaline Max",
+    "category": "agua",
+    "price": 760,
+    "description": "Jarra filtrante de 101 oz. Reduce cloro libre, mineraliza el agua. Incluye 10 esferas Ion Balls, 1 imán de neodimio (~3400 Gauss), 1 disco Ion Balls y 1 filtro.",
+    "specs": ["101 oz", "10 esferas Ion Balls", "1 imán 3400 Gauss"]
+  },
+  {
+    "code": "296",
+    "name": "Botella Alcaline pH+ Squeeze",
+    "category": "agua",
+    "price": 326,
+    "description": "Transforma el agua en 20 segundos. 99% de reducción de cloro, retención de partículas, 18.06 oz de capacidad. Incluye 4 recargas mineralizantes y 8 esferas Ion Balls.",
+    "specs": ["18.06 oz", "99% reducción de cloro", "8 esferas Ion Balls"]
+  },
+  {
+    "code": "224-mono",
+    "name": "Bracelete FIR Ion Monocolor",
+    "category": "pulseras",
+    "price": 247,
+    "description": "Pulsera con hebilla de acero quirúrgico ajustable, libre de níquel. Incluye 2 esferas Ion Balls, 2 tabletas FIR Power y 2 imanes especiales de 1100 Gauss.",
+    "specs": ["Libre de níquel", "2 imanes 1100 Gauss"]
+  },
+  {
+    "code": "224-boy",
+    "name": "Bracelete Energy Boy (Niños)",
+    "category": "pulseras",
+    "price": 247,
+    "badge": "Kids",
+    "description": "Pulsera infantil con hebilla de acero quirúrgico, libre de níquel. Incluye revista cómic Energy Boy & Energy Girl.",
+    "specs": ["Incluye cómic", "Libre de níquel"]
+  },
+  {
+    "code": "224-girl",
+    "name": "Bracelete Energy Girl (Niñas)",
+    "category": "pulseras",
+    "price": 247,
+    "badge": "Kids",
+    "description": "Pulsera infantil con hebilla de acero quirúrgico, libre de níquel. Incluye revista cómic Energy Boy & Energy Girl.",
+    "specs": ["Incluye cómic", "Libre de níquel"]
+  },
+  {
+    "code": "149",
+    "name": "Young FIR Power Bracelet",
+    "category": "pulseras",
+    "price": 158,
+    "description": "Pulsera de cuero trenzado auténtico, libre de níquel, con 1 FIR Power y 2 imanes especiales.",
+    "specs": ["Cuero trenzado", "Libre de níquel"]
+  },
+  {
+    "code": "178",
+    "name": "FIR Style Metal Bracelet (Men's)",
+    "category": "pulseras",
+    "price": 188,
+    "badge": "Edición limitada",
+    "description": "Brazalete de acero con baño PVD color negro, 2 tabletas FIR Power, libre de níquel.",
+    "specs": ["Edición limitada", "Baño PVD negro"]
+  },
+  {
+    "code": "658",
+    "name": "Bracelete Jewelry",
+    "category": "pulseras",
+    "price": 695,
+    "badge": "Premium",
+    "description": "Brazalete bañado en oro, hipoalergénico y libre de níquel, con 2 tabletas FIR Power.",
+    "specs": ["Bañado en oro", "Hipoalergénico"]
+  },
+  {
+    "code": "224-bi",
+    "name": "Bracelete FIR Ion Bicolor",
+    "category": "pulseras",
+    "price": 247,
+    "description": "Pulsera bicolor con hebilla de acero quirúrgico ajustable, colores vendidos por separado.",
+    "specs": ["2 esferas Ion Balls", "2 imanes 1100 Gauss"]
+  },
+  {
+    "code": "156-m",
+    "name": "Sandalias FIR Hombre",
+    "category": "calzado",
+    "price": 165,
+    "badge": "Nuevo diseño",
+    "description": "PVC micro expandido con 6 tabletas FIR Power y 14 imanes especiales de 500 Gauss.",
+    "specs": ["PVC micro expandido", "14 imanes 500 Gauss"]
+  },
+  {
+    "code": "156-w",
+    "name": "Sandalias FIR Mujer",
+    "category": "calzado",
+    "price": 165,
+    "badge": "Nuevo diseño",
+    "description": "PVC micro expandido con 6 tabletas FIR Power y 14 imanes especiales de 500 Gauss.",
+    "specs": ["PVC micro expandido", "14 imanes 500 Gauss"]
+  },
+  {
+    "code": "143",
+    "name": "Plantilla Azul",
+    "category": "calzado",
+    "price": 158,
+    "description": "Plantilla de comodidad diaria de la línea Comfort FIR.",
+    "specs": ["Uso diario"]
+  },
+  {
+    "code": "90",
+    "name": "Plantilla Magnética Negra",
+    "category": "calzado",
+    "price": 99,
+    "description": "Plantilla con puntos magnéticos para mayor comodidad en el día a día.",
+    "specs": ["Puntos magnéticos"]
+  },
+  {
+    "code": "307",
+    "name": "Boxer (2 unidades)",
+    "category": "textil",
+    "price": 307,
+    "description": "Ropa interior masculina con iones de plata impregnados en la tela. Paquete de 2 unidades.",
+    "specs": ["Iones de plata", "2 unidades"]
+  },
+  {
+    "code": "167",
+    "name": "Panty Thong",
+    "category": "textil",
+    "price": 167,
+    "description": "Ropa interior femenina con iones de plata impregnados en la tela.",
+    "specs": ["Iones de plata"]
+  },
+  {
+    "code": "328",
+    "name": "Legging",
+    "category": "textil",
+    "price": 328,
+    "description": "Legging deportivo de la línea Movement/Sport FIR.",
+    "specs": ["Uso deportivo"]
+  },
+  {
+    "code": "111",
+    "name": "Super Mask (antifaz para dormir)",
+    "category": "textil",
+    "price": 111,
+    "description": "Antifaz para dormir, línea Comfort FIR.",
+    "specs": ["Comfort FIR"]
+  },
+  {
+    "code": "481",
+    "name": "Hive Dream Pillow",
+    "category": "hogar",
+    "price": 507,
+    "description": "Almohada con tecnología FIR Power Bioceramic, FIR Power NG, imanes, Rabatan Soft, sistema Comfort Flow Cool, funda removible y altura ajustable. Contiene iones de plata en la tela.",
+    "specs": ["Funda removible", "Altura ajustable", "Iones de plata"]
+  },
+  {
+    "code": "1208",
+    "name": "NipponCar Black",
+    "category": "hogar",
+    "price": 1208,
+    "description": "Cubreasiento para auto con FIR Power, Rabatan y forro de tela.",
+    "specs": ["FIR Power", "Forro de tela"]
+  },
+  {
+    "code": "96",
+    "name": "Codera (Elbow Strap)",
+    "category": "soportes",
+    "price": 96,
+    "description": "Soporte para codo, línea Sport/Movement/Comfort FIR.",
+    "specs": ["Sport FIR"]
+  },
+  {
+    "code": "192",
+    "name": "Rodillera (Knee Pad)",
+    "category": "soportes",
+    "price": 192,
+    "description": "Rodillera deportiva de la línea Sport FIR.",
+    "specs": ["Sport FIR"]
+  },
+  {
+    "code": "270",
+    "name": "Knee Brace",
+    "category": "soportes",
+    "price": 270,
+    "description": "Rodillera ajustable de talla única.",
+    "specs": ["Talla única ajustable"]
+  },
+  {
+    "code": "690",
+    "name": "Faja Abdominal Lion",
+    "category": "soportes",
+    "price": 690,
+    "description": "Faja abdominal de la línea Sport/Movement FIR.",
+    "specs": ["Sport FIR"]
+  },
+  {
+    "code": "60",
+    "name": "Muñequera Power (elástica)",
+    "category": "soportes",
+    "price": 60,
+    "description": "Muñequera elástica, línea Sport FIR.",
+    "specs": ["Elástica"]
+  },
+  {
+    "code": "74",
+    "name": "Muñequera Ajustable",
+    "category": "soportes",
+    "price": 74,
+    "description": "Muñequera ajustable, línea Sport FIR.",
+    "specs": ["Ajustable"]
+  },
+  {
+    "code": "148",
+    "name": "Banda Multipropósito",
+    "category": "soportes",
+    "price": 148,
+    "description": "Banda multipropósito para diferentes zonas del cuerpo.",
+    "specs": ["Multiuso"]
+  },
+  {
+    "code": "206",
+    "name": "Band FIR Ion",
+    "category": "pulseras",
+    "price": 218,
+    "description": "Kit portátil con 5 FIR Power, 5 imanes especiales de 500 Gauss, 30 bandas adhesivas especiales y 3 Ion Balls.",
+    "specs": ["30 bandas adhesivas", "3 Ion Balls"]
+  },
+  {
+    "code": "41",
+    "name": "Band FIR Ion - Recarga",
+    "category": "pulseras",
+    "price": 44,
+    "description": "Recarga de bandas adhesivas para el kit Band FIR Ion.",
+    "specs": ["Repuesto"]
+  },
+  {
+    "code": "202",
+    "name": "Correa para Mascota FIR Power",
+    "category": "hogar",
+    "price": 214,
+    "description": "Correa para mascotas con 3 FIR Power y 2 imanes especiales de 500 Gauss.",
+    "specs": ["3 FIR Power", "2 imanes 500 Gauss"]
+  },
+  {
+    "code": "714",
+    "name": "Wellness Kit 1",
+    "category": "kits",
+    "price": 756,
+    "badge": "Kit con regalo",
+    "description": "Incluye botella Alcaline, pulsera FIR y faja Multiple Power, más un Rabatan de regalo.",
+    "specs": ["Botella Alcaline", "Pulsera FIR", "Regalo Rabatan"]
+  },
+  {
+    "code": "662",
+    "name": "Wellness Kit 2",
+    "category": "kits",
+    "price": 700,
+    "badge": "Kit con regalo",
+    "description": "Incluye botella Alcaline, pulsera FIR y plantilla magnética, más un Rabatan de regalo.",
+    "specs": ["Botella Alcaline", "Pulsera FIR", "Regalo Rabatan"]
+  },
+  {
+    "code": "939",
+    "name": "Wellness Kit 3",
+    "category": "kits",
+    "price": 1003,
+    "badge": "Kit con regalo",
+    "description": "Incluye botella Alcaline, 2 pulseras FIR y faja Multiple Power, más un Rabatan de regalo.",
+    "specs": ["Botella Alcaline", "2 pulseras FIR", "Regalo Rabatan"]
+  },
+  {
+    "code": "1580",
+    "name": "Wellness Kit Premium",
+    "category": "kits",
+    "price": 1709,
+    "badge": "El más completo",
+    "description": "Incluye jarra Alcaline Max, 3 pulseras FIR y faja Multiple Power. Regalos: catálogo E-Energy, botón E-Energy, pulsera Fir Ion negra y Rabatan.",
+    "specs": ["Jarra Alcaline Max", "3 pulseras FIR", "4 regalos"]
+  }
+]

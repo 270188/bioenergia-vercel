@@ -1,0 +1,9 @@
+{
+  "name": "bioenergia-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bioenergía - catálogo Nipponflex E-Energy (Distribuidora Independiente Nancy León Arambulo) - versión Vercel",
+  "engines": {
+    "node": ">=18"
+  }
+}
